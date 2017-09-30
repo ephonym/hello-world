@@ -1,2 +1,3 @@
 # hello-world
-world hello repo
+
+The sky is blue.
